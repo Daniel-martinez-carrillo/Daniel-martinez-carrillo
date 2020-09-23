@@ -3,7 +3,7 @@
 <p><em> Estudiante de ingenieria en sistemas computacionales en el <a href="https://www.tijuana.tecnm.mx/">  Instituto Tecnologico De Tijuana</a><img src="https://66.media.tumblr.com/b6ed3df019d18f0b56a92e1a60c4bbf9/tumblr_n1a3ncsU2q1rfjowdo1_500.gif" width="40"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/mepOCEmTGBtgif" width="30"> 
 </em></p>
 
-[![Java]("https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" width="40")](https://twitter.com/ThaiiBraga)
+[![Java](<img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" width="40")](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Daniel-martinez-carrillo)
 
