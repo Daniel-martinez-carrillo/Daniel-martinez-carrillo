@@ -7,7 +7,7 @@ Amante de la tecnologia y la programacion <a></a>
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Algunas cosas mas acerca de mi...  
 
 ```javascript
 const Daniel = {
@@ -18,7 +18,7 @@ const Daniel = {
   Sistema operativos: ["Windows", "Android"],
   Pasatiempos: {
                         Videojuegos:"Fps,Rpg,Juegos de pelea",
-                        Series: "",
+                        Series: "anime",
                         Cubos de rubik: "2x2,3x3,4x4",
                           Juegos de mesa: "Estrategia",
                             Musica: "Deathcore,technicaldeathmetal",
@@ -32,4 +32,4 @@ const Daniel = {
 
 ---
  
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ Daniel martinez carrillo
