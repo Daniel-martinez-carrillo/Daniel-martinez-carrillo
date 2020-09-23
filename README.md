@@ -6,7 +6,8 @@
 Actualmente estoy cursando el Decimo semestre de la carrera , constantemente intento aprender sobre tecnologia, bases de datos, creacion de juegos y uso de software de creacion de musica.
   
     
-*Amante de la tecnologia y la programacion*<a></a>
+~~Este texto está equivocado~~
+Amante de la tecnologia y la programacion*<a></a>
 </em></p>
 
 
