@@ -6,8 +6,7 @@
 Amante de la tecnologia y la programacion <a></a>
 </em></p>
 
-<table>| Lenguajes de interfaz | Lunes | Martes | Miercoles | Jueves |
-| Horario               |  2-3  |  2-3   |    2-3    |  2-3   |<table/>
+<table>| Lenguajes de interfaz | Lunes | Martes | Miercoles | Jueves | | Horario |  2-3  |  2-3   |    2-3    |  2-3   |  <table/>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Algunas cosas mas acerca de mi...  
