@@ -2,13 +2,13 @@
 <img align='right' src="https://media3.giphy.com/media/LQiq27myXGPXO6WzAE/giphy.gif" width="270">
 <p><em> Estudiante de ingenieria en sistemas computacionales en el <a href="https://www.tijuana.tecnm.mx/">  Instituto Tecnologico De Tijuana</a><img src="https://66.media.tumblr.com/b6ed3df019d18f0b56a92e1a60c4bbf9/tumblr_n1a3ncsU2q1rfjowdo1_500.gif" width="40"></br>Actualmente estoy cursando el Decimo semestre de la carrera , constantemente intento aprender sobre tecnologia, bases de datos, creacion de juegos y uso de software de creacion de musica.
   
-  
-  
-  
+    
 Amante de la tecnologia y la programacion <a></a>
 </em></p>
 
-
+<table>| Lenguajes de interfaz | Lunes | Martes | Miercoles | Jueves |
+|-----------------------|-------|--------|-----------|--------|
+| Horario               |  2-3  |  2-3   |    2-3    |  2-3   |<table/>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Algunas cosas mas acerca de mi...  
@@ -37,3 +37,4 @@ Amante de la tecnologia y la programacion <a></a>
 ---   
  
 ⭐️ Daniel martinez carrillo
+
