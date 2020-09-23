@@ -37,7 +37,6 @@ Actualmente estoy cursando el Decimo semestre de la carrera , constantemente int
 - **Adobe Ilustrator**
 
 #
-#
 ### Horario de clase
 
 |   | Lenguajes de interfaz   | Lunes   | Martes   | Miercoles   | Jueves   |
