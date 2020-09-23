@@ -22,9 +22,23 @@ Actualmente estoy cursando el Decimo semestre de la carrera , constantemente int
 - **Arena** 
 - **C sharp** 
   
+ ### **Herramientas de edicion de audio y video**
+- **Audicity**
+- **Soundforge**
+- **FL studio**
+- **Ableton Live**
+- **Reason**
+- **Camtacia studio**
+- **Sony vegas**
+
+ ### **Herramientas de edicion Modelado y diseno**
+- **Unity**
+- **GraphicScale**
+- **Adobe Ilustrator**
+
 #
 #
-#
+### Horario de clase
 
 |   | Lenguajes de interfaz   | Lunes   | Martes   | Miercoles   | Jueves   |
 |---|-------------------------|---------|----------|-------------|----------|
