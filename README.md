@@ -38,6 +38,13 @@ Amante de la tecnologia y la programacion <a></a>
 <img src="https://pa1.narvii.com/7558/525dfa5cdbd2d481724b9567a23e1e28a603ea01r4-500-279_00.gif" width="65"> <em><b>Todo es posible mientras se desee lograr,   </b><b>Esfuerzate haciendo lo que te gusta e intenta mejorar constantemente</b> :3 </em>
 
 ---   
- 
+
+|   | Lenguajes de interfaz   | Lunes   | Martes   | Miercoles   | Jueves   |   |
+|---|-------------------------|---------|----------|-------------|----------|---|
+|   | ----------------------- | ------- | -------- | ----------- | -------- |   |
+|   | Horario                 | 2-3     | 2-3      | 2-3         | 2-3      |   |
+
+
+
 ⭐️ Daniel martinez carrillo
 
