@@ -38,6 +38,8 @@ Actualmente estoy cursando el Decimo semestre de la carrera , constantemente int
 
 #
 ### Horario de clase
+<a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5465866.png" width="279" height="90" alt="Horario" /></a>
+<br />Image by <a href="https://es.cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://es.cooltext.com/Edit-Logo?LogoID=3634594302">Create Your Own Logo</a>
 
 |   | Lenguajes de interfaz   | Lunes   | Martes   | Miercoles   | Jueves   |
 |---|-------------------------|---------|----------|-------------|----------|
