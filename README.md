@@ -7,16 +7,16 @@ Actualmente estoy cursando el Decimo semestre de la carrera , constantemente int
  
  
  ### **Herramientas que recomiendo** 
-- ** C sharp ** 
-- ** Netbeans** 
-- ** Swiprolog ** 
-- ** Visual studio code ** 
-- ** Sql server** 
-- ** Notepad ++ ** 
-- ** Sublime text 3 ** 
-- ** Eclipse ** 
-- ** Arena ** 
-- ** C sharp ** 
+- **C sharp** 
+- **Netbeans
+- **Swiprolog** 
+- **Visual studio code** 
+- **Sql server** 
+- **Notepad ++** 
+- **Sublime text 3** 
+- **Eclipse** 
+- **Arena** 
+- **C sharp** 
     
 
 **Amante de la tecnologia y la programacion**<a></a>
