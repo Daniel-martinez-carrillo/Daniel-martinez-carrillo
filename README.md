@@ -47,7 +47,7 @@ Actualmente estoy cursando el Decimo semestre de la carrera , constantemente int
 |   | Horario                 | 2-3     | 2-3      | 2-3         | 2-3      |
 
 #
-##TENGO CONOCIMIENTO EN 
+## TENGO CONOCIMIENTO EN 
 
 |   |   Programacion   |   Bases de datos   |   |
 |---|------------------|--------------------|---|
