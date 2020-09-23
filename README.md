@@ -1,6 +1,6 @@
-<h2> Hi, I'm Thai Braga! <img src="https://i.pinimg.com/originals/6d/54/45/6d54453692fb3e96e0bbed5743aa9ee0.gif" width="50"></h2>
+<h2> Hi, I'm Daniel Martinez Carrillo! <img src="https://i.pinimg.com/originals/6d/54/45/6d54453692fb3e96e0bbed5743aa9ee0.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4/giphy.gif" width="230">
-<p><em> Estudiante de ingenieria en sistemas computacionales en el <a href="http://https://www.tijuana.tecnm.mx/">  Instituto Tecnologico De Tijuana</a><img src="https://media.giphy.com/medSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/mepOCEmTGBtgif" width="30"> 
+<p><em> Estudiante de ingenieria en sistemas computacionales en el <a href="https://www.tijuana.tecnm.mx/">  Instituto Tecnologico De Tijuana</a><img src="https://media.giphy.com/medSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/mepOCEmTGBtgif" width="30"> 
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
@@ -12,8 +12,11 @@
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  code: [C Sharp, HTML, Java],
+  
+  
+  
+  
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
