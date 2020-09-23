@@ -14,15 +14,16 @@ const Daniel = {
   code: [C Sharp, HTML, Java],
   
   
-  
-  
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
+  Herramientas: [Sql server, Microsoft visual studio , Notepad ++, Netbeans,GraphicScale,swiprolog],
+  Sistema operativos: ["Windows", "Android"],
+  Pasatiempos: {
+                        Videojuegos:"Fps,Rpg,Juegos de pelea",
+                        Series: "",
+                        Cubos de rubik: "2x2,3x3,4x4",
+                          Juegos de mesa: "Estrategia",
+                            Musica: "Deathcore,technicaldeathmetal",
+                        },
+                        
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
