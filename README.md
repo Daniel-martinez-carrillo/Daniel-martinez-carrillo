@@ -1,11 +1,9 @@
-<h2> Hi, I'm Daniel Martinez Carrillo! <img src="https://i.pinimg.com/originals/6d/54/45/6d54453692fb3e96e0bbed5743aa9ee0.gif" width="50"></h2>
+<h2> Hi,Soy Daniel Martinez Carrillo! <img src="https://i.pinimg.com/originals/6d/54/45/6d54453692fb3e96e0bbed5743aa9ee0.gif" width="50"></h2>
 <img align='right' src="https://media3.giphy.com/media/LQiq27myXGPXO6WzAE/giphy.gif" width="270">
-<p><em> Estudiante de ingenieria en sistemas computacionales en el <a href="https://www.tijuana.tecnm.mx/">  Instituto Tecnologico De Tijuana</a><img src="https://66.media.tumblr.com/b6ed3df019d18f0b56a92e1a60c4bbf9/tumblr_n1a3ncsU2q1rfjowdo1_500.gif" width="40"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/mepOCEmTGBtgif" width="30"> 
+<p><em> Estudiante de ingenieria en sistemas computacionales en el <a href="https://www.tijuana.tecnm.mx/">  Instituto Tecnologico De Tijuana</a><img src="https://66.media.tumblr.com/b6ed3df019d18f0b56a92e1a60c4bbf9/tumblr_n1a3ncsU2q1rfjowdo1_500.gif" width="40"></br>Decimo semestre <a></a>
 </em></p>
 
-[![Java]
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Daniel-martinez-carrillo)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
