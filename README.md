@@ -8,9 +8,14 @@ Amante de la tecnologia y la programacion <a></a>
 
 
 
+
+
 |   | Lenguajes de interfaz   | Lunes   | Martes   | Miercoles   | Jueves   |
 |---|-------------------------|---------|----------|-------------|----------|
 |   | Horario                 | 2-3     | 2-3      | 2-3         | 2-3      |
+
+
+
 
 
 
