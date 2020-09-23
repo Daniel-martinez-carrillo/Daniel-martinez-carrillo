@@ -46,10 +46,12 @@ Actualmente estoy cursando el Decimo semestre de la carrera , constantemente int
 |---|-------------------------|---------|----------|-------------|----------|
 |   | Horario                 | 2-3     | 2-3      | 2-3         | 2-3      |
 
-|   | Lenguajes de interfaz   | Lunes   | Martes   | Miercoles   | Jueves   |   |
-|---|-------------------------|---------|----------|-------------|----------|---|
-|   | ----------------------- | ------- | -------- | ----------- | -------- |   |
-|   | Horario                 | 2-3     | 2-3      | 2-3         | 2-3      |   |
+#
+
+|   |   Programacion   |   Bases de datos   |   |
+|---|------------------|--------------------|---|
+|   |       C#         |        MySql       |   |
+|   |      Java        |      Sqlserver     |   |
 
 #
 
