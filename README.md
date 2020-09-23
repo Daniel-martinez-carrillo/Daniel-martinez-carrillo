@@ -21,11 +21,10 @@ Actualmente estoy cursando el Decimo semestre de la carrera , constantemente int
 - **Eclipse** 
 - **Arena** 
 - **C sharp** 
- 
- 
-
-
-
+  
+#
+#
+#
 
 |   | Lenguajes de interfaz   | Lunes   | Martes   | Miercoles   | Jueves   |
 |---|-------------------------|---------|----------|-------------|----------|
