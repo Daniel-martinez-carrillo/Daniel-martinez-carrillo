@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![About Me](https://raw.githubusercontent.com/Daniel-martinez-carrillo/master/bio.gif)
+![About Me](https://raw.githubusercontent.com/Daniel-martinez-carrillo/Daniel-martinez-carrillo/master/bio.gif)
 
 ---
 ⭐️ From [Daniel-martinez-carrillo](https://github.com/daniel-martinez-carrillo)
