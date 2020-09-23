@@ -1,4 +1,4 @@
-<h2> <img src="http://r70.cooltext.com/d.php?renderid=363419397927122&extension=png"><img src="https://i.pinimg.com/originals/6d/54/45/6d54453692fb3e96e0bbed5743aa9ee0.gif" width="50"></h2>
+<h2> Daniel Martinez Carrillo <img src="https://i.pinimg.com/originals/6d/54/45/6d54453692fb3e96e0bbed5743aa9ee0.gif" width="50"></h2>
 <img align='right' src="https://media3.giphy.com/media/LQiq27myXGPXO6WzAE/giphy.gif" width="270">
 <p><em> Estudiante de ingenieria en sistemas computacionales en el <a href="https://www.tijuana.tecnm.mx/">  Instituto Tecnologico De Tijuana</a><img src="https://66.media.tumblr.com/b6ed3df019d18f0b56a92e1a60c4bbf9/tumblr_n1a3ncsU2q1rfjowdo1_500.gif" width="40"></br>Decimo semestre  
 Amante de la tecnologia y la programacion <a></a>
