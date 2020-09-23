@@ -39,14 +39,13 @@ Actualmente estoy cursando el Decimo semestre de la carrera , constantemente int
 #
 ### Horario de clase
 <a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5465866.png" width="279" height="90" alt="Horario" /></a>
-<br />Image by <a href="https://es.cooltext.com"><a href="http://es.cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Generador de Logotipos y Gráficos." border="0" /></a>
+<br /><a href="https://es.cooltext.com"><a href="http://es.cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Generador de Logotipos y Gráficos." border="0" /></a>
 
 |   | Lenguajes de interfaz   | Lunes   | Martes   | Miercoles   | Jueves   |
 |---|-------------------------|---------|----------|-------------|----------|
 |   | Horario                 | 2-3     | 2-3      | 2-3         | 2-3      |
 
 #
-<img src="https://images.cooltext.com/5465866.png">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Algunas cosas mas acerca de mi...  
 
