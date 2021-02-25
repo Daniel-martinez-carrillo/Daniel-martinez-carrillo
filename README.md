@@ -42,9 +42,9 @@ Actualmente estoy cursando el Decimo semestre de la carrera , constantemente int
 <a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5465872.png" width="571" height="91" alt="Horario de clase" /></a>
 <br /><a href="https://es.cooltext.com"><a href="http://es.cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Generador de Logotipos y Gráficos." border="0" /></a>
 
-|   | Lenguajes de interfaz   | Lunes   | Martes   | Miercoles   | Jueves   |
-|---|-------------------------|---------|----------|-------------|----------|
-|   | Horario                 | 2-3     | 2-3      | 2-3         | 2-3      |
+| Sistemas Programables   | Lunes   | Martes   | Miercoles   | Jueves   |
+|-------------------------|:-------:|:--------:|:-----------:|:--------:|
+| Horario de clase        |   4-5   | 4-5      | 4-5         | 4-5      |
 
 #
 ### TENGO CONOCIMIENTO EN 
