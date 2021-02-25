@@ -33,7 +33,7 @@ Actualmente estoy cursando el Decimo semestre de la carrera , constantemente int
 - **Camtacia studio**
 - **Sony vegas**
 
- ### **Herramientas de edicion Modelado y diseno**
+ ### **Herramientas de edicion Modelado y diseño**
 - **Unity**
 - **GraphicScale**
 - **Adobe Ilustrator**
@@ -68,15 +68,13 @@ Actualmente estoy cursando el Decimo semestre de la carrera , constantemente int
 |       C#         |        MySql       |
 |      Java        |      Sqlserver     |
 
+#
+
 | Sensores 	|  X 	|  Y  	|  Y   |
 |----------	|:--:	|:---:	|:---: |
 | Co2      	| 20 	|  30 	|| 56 |
 | temp     	| 11 	|  27 	|
 | O2       	| 22 	| 333 	|
-
-
-
-
 
 #
 
