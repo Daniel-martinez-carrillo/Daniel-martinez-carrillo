@@ -49,10 +49,10 @@ Actualmente estoy cursando el Decimo semestre de la carrera , constantemente int
 #
 ### TENGO CONOCIMIENTO EN 
 
-|   |   Programacion   |   Bases de datos   |   |
-|---|------------------|:------------------:|:-:|
-|   |       C#         |        MySql       |   |
-|   |      Java        |      Sqlserver     |   |
+|   Programacion   |   Bases de datos   |
+|------------------|:------------------:|
+|       C#         |        MySql       |
+|      Java        |      Sqlserver     |
 
 | Sensores 	|  X 	|  Y  	|  Y   |
 |----------	|:--:	|:---:	|:---: |
