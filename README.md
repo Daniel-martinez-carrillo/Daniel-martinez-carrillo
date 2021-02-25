@@ -54,6 +54,16 @@ Actualmente estoy cursando el Decimo semestre de la carrera , constantemente int
 |   |       C#         |        MySql       |   |
 |   |      Java        |      Sqlserver     |   |
 
+| Sensores 	|  X 	|  Y  	|
+|----------	|:--:	|:---:	|
+| Co2      	| 20 	|  30 	|
+| temp     	| 11 	|  27 	|
+| O2       	| 22 	| 333 	|
+
+
+
+
+
 #
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Algunas cosas mas acerca de mi...  
