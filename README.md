@@ -39,7 +39,7 @@ Actualmente estoy cursando el Onceavo semestre de la carrera , constantemente in
 - **GraphicScale**
 - **Adobe Ilustrator**
 
- ### **Herramientas de Emulacion y virtualicazion**
+ ### **Herramientas de Emulacion y virtualizacion**
 - **Docker**
 - **Vmware**
 - **Virtualbox**
@@ -71,11 +71,11 @@ Actualmente estoy cursando el Onceavo semestre de la carrera , constantemente in
 
 #
 
-| Sensores 	|  X 	|  Y  	|  Y   |
-|----------	|:--:	|:---:	|:---: |
-| Co2      	| 20 	|  30 	|| 56 |
-| temp     	| 11 	|  27 	|
-| O2       	| 22 	| 333 	|
+| Preferencias            |         |
+|-------------------------|:-------:|
+|S.o   	                  | windows |
+|S.o Movil     	          | Android |
+|Lenguaje de programacion	|   C #   |
 
 #
 
